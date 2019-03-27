@@ -1,1 +1,1 @@
-# melbin_collins_responsice_layout
+# melbin_collins_responsive_layout
